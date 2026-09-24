@@ -6,7 +6,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **<https://jsdodge.github.io/jupyterlite-test>**
+➡️ **<https://jsdodge.github.io/jupyterlite-phys132>**
 
 ## Requirements
 

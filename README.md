@@ -10,7 +10,7 @@ JupyterLite deployed as a static site to GitHub Pages, for use in PHYS 132.
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+JupyterLite is being tested against the following web browsers:
 
 - Firefox 90+
 - Chromium 89+
